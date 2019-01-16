@@ -1,0 +1,12 @@
+[15/01/2019 @ 10:13:37]	[index.php]	entry
+[15/01/2019 @ 10:13:37]	[index.php]	attr page=login
+[15/01/2019 @ 10:13:37]	[index.php]	generate page: login
+[15/01/2019 @ 10:13:37]	[data.class.php]	Connected: localhost web_db
+[15/01/2019 @ 10:13:37]	[data.class.php]	DB instantiated
+[15/01/2019 @ 10:13:37]	[con-login.class.php]	login request
+[15/01/2019 @ 10:13:37]	[view-template.class.php]	set sidebar
+[15/01/2019 @ 10:13:37]	[view-template.class.php]	set title
+[15/01/2019 @ 10:13:37]	[view-template.class.php]	set header
+[15/01/2019 @ 10:13:37]	[view-template.class.php]	set page_content
+[15/01/2019 @ 10:13:37]	[view-login.class.php]	data inserted
+[15/01/2019 @ 10:13:37]	[view-template.class.php]	page constructed

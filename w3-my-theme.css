@@ -1,0 +1,52 @@
+.w3-theme-l5 {color:#000 ; background-color:#f6f6f6 }
+.w3-theme-l4 {color:#000 ; background-color:#dfdfdf }
+.w3-theme-l3 {color:#000 ; background-color:#c0c0c0 }
+.w3-theme-l2 {color:#000 ; background-color:#a0a0a0 }
+.w3-theme-l1 {color:#dfdfdf ; background-color:#818181 }
+.w3-theme-d1 {color:#dfdfdf ; background-color:#575757 }
+.w3-theme-d2 {color:#dfdfdf ; background-color:#4e4e4e }
+.w3-theme-d3 {color:#dfdfdf ; background-color:#444444 }
+.w3-theme-d4 {color:#dfdfdf ; background-color:#3a3a3a }
+.w3-theme-d5 {color:#dfdfdf ; background-color:#303030 }
+#dfdfdf
+.w3-theme-light {color:#000 ; background-color:#f6f6f6 }
+.w3-theme-dark {color:#fff ; background-color:#303030 }
+.w3-theme-action {color:#fff ; background-color:#303030 }
+
+.w3-theme {color:#fff ; background-color:#616161 }
+.w3-text-theme {color:#616161 }
+.w3-border-theme {border-color:#616161 }
+
+
+.w3-hover-theme:hover {color:#fff ; background-color:#616161 }
+.w3-hover-text-theme:hover {color:#616161 }
+.w3-hover-border-theme:hover {border-color:#616161 }
+
+.w3-theme-table{color:#dfdfdf ;background-color:#444444}
+.w3-theme-table2{}
+
+/*----------------------------------------*/
+
+.w3-theme2-l5 {color:#000 ; background-color:#fff5f2 }
+.w3-theme2-l4 {color:#000 ; background-color:#ffddd3 }
+.w3-theme2-l3 {color:#000 ; background-color:#ffbca7 }
+.w3-theme2-l2 {color:#000 ; background-color:#ff9a7b }
+.w3-theme2-l1 {color:#dfdfdf ; background-color:#ff7850 }
+.w3-theme2-d1 {color:#dfdfdf ; background-color:#ff4107 }
+.w3-theme2-d2 {color:#dfdfdf ; background-color:#e93600 }
+.w3-theme2-d3 {color:#dfdfdf ; background-color:#cb2f00 }
+.w3-theme2-d4 {color:#dfdfdf ; background-color:#ae2900 }
+.w3-theme2-d5 {color:#dfdfdf ; background-color:#912200 }
+
+.w3-theme2-light {color:#000 ; background-color:#fff5f2 }
+.w3-theme2-dark {color:#fff ; background-color:#912200 }
+.w3-theme2-action {color:#fff ; background-color:#912200 }
+
+.w3-theme2 {color:#dfdfdf ; background-color:#ff5722 }
+.w3-text-theme2 {color:#ff5722 }
+.w3-border-theme2 {border-color:#ff5722 }
+
+.w3-hover-theme2:hover {color:#fff !important ; background-color:#ff5722 !important }
+
+.w3-hover-text-theme2:hover {color:#ff5722 }
+.w3-hover-border-theme2:hover {border-color:#ff5722 }
