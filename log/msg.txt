@@ -1,12 +1,14 @@
-[15/01/2019 @ 10:13:37]	[index.php]	entry
-[15/01/2019 @ 10:13:37]	[index.php]	attr page=login
-[15/01/2019 @ 10:13:37]	[index.php]	generate page: login
-[15/01/2019 @ 10:13:37]	[data.class.php]	Connected: localhost web_db
-[15/01/2019 @ 10:13:37]	[data.class.php]	DB instantiated
-[15/01/2019 @ 10:13:37]	[con-login.class.php]	login request
-[15/01/2019 @ 10:13:37]	[view-template.class.php]	set sidebar
-[15/01/2019 @ 10:13:37]	[view-template.class.php]	set title
-[15/01/2019 @ 10:13:37]	[view-template.class.php]	set header
-[15/01/2019 @ 10:13:37]	[view-template.class.php]	set page_content
-[15/01/2019 @ 10:13:37]	[view-login.class.php]	data inserted
-[15/01/2019 @ 10:13:37]	[view-template.class.php]	page constructed
+[16/01/2019 @ 11:54:25]	[index.php]	entry
+[16/01/2019 @ 11:54:25]	[index.php]	attr page=login
+[16/01/2019 @ 11:54:25]	[index.php]	generate page: login
+[16/01/2019 @ 11:54:25]	[data.class.php]	Connected: localhost web_db
+[16/01/2019 @ 11:54:25]	[data.class.php]	DB instantiated
+[16/01/2019 @ 11:54:25]	[con-login.class.php]	already logged
+[16/01/2019 @ 11:54:25]	[data.class.php]	user logged out
+[16/01/2019 @ 11:54:25]	[con-login.class.php]	login request
+[16/01/2019 @ 11:54:25]	[view-template.class.php]	set sidebar
+[16/01/2019 @ 11:54:25]	[view-template.class.php]	set title
+[16/01/2019 @ 11:54:25]	[view-template.class.php]	set header
+[16/01/2019 @ 11:54:25]	[view-template.class.php]	set page_content
+[16/01/2019 @ 11:54:25]	[view-login.class.php]	data inserted
+[16/01/2019 @ 11:54:25]	[view-template.class.php]	page constructed
